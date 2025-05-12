@@ -1,0 +1,23 @@
+.containerCard{
+
+    width: 100%;
+    border-radius: 0.4rem;
+    background-color: rgb(199, 209, 209);
+    padding: 0.4rem;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.containerButton{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 1rem;
+
+}
+
+.containerButton button :hover {
+    cursor: pointer ;
+}

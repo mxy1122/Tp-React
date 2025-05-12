@@ -1,0 +1,28 @@
+{
+  "tareas": [
+    {
+      "id": "1",
+      "titulo": "Tarea 1",
+      "descripcion": "Descripcion de la tarea 1",
+      "fechaLimite": "2023-01-01"
+    },
+    {
+      "id": "2",
+      "titulo": "Tarea 2",
+      "descripcion": "Descripcion de la tarea 1",
+      "fechaLimite": "2023-01-01"
+    },
+    {
+      "id": "3",
+      "titulo": "Tarea 3",
+      "descripcion": "Descripcion de la tarea 1",
+      "fechaLimite": "2023-01-01"
+    },
+    {
+      "id": "Sun May 11 2025",
+      "titulo": "Tarea 4",
+      "descripcion": "descripcion 4",
+      "fechaLimite": "2025-05-06"
+    }
+  ]
+}
